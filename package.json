@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/progreshmaharjan69/stack/issues"
   },
-  "homepage": "https://github.com/progreshmaharjan69/stack#readme"
+  "homepage": "https://github.com/progreshmaharjan69/stack#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
